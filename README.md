@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>⚜️&nbsp; P O M O D O R O &nbsp; T I M E R &nbsp;⚜️</h2>
+    <h2>⚜️&nbsp; OROD &nbsp; T I M E R &nbsp;⚜️</h2>
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ## 📚 Project
 <p>This project was developed to practice logic and DOM manipulation.</p>
 <p>Of course, it's not the best project ever, but I did my best. As this project is on Youtube, I can't modify the code.</p>
-<a href="https://www.youtube.com/watch?v=sYFR4NJkrFc&t=523s">Check my video</a>
+
 
 <br><br>
 
